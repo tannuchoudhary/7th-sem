@@ -144,6 +144,129 @@
 ![Screenshot from 2022-03-08 01-21-47](https://user-images.githubusercontent.com/42698268/157107702-275c0e70-8e66-4d51-896f-a9ff91b334d5.png)
 
 
+# Module 2
+![Screenshot from 2022-03-08 01-23-26](https://user-images.githubusercontent.com/42698268/157107899-735ba173-bdce-43af-8968-7fc9aef43c44.png)
+
+### 1. Process patterns in SE
+
+
+![Screenshot from 2022-03-08 01-24-46](https://user-images.githubusercontent.com/42698268/157108134-3099fe62-5f49-4075-9524-a180c5b01609.png)
+
+
+![Screenshot from 2022-03-08 01-25-03](https://user-images.githubusercontent.com/42698268/157108142-73faf9ee-2ed5-498c-b291-5f911c721021.png)
+
+
+![Screenshot from 2022-03-08 01-25-15](https://user-images.githubusercontent.com/42698268/157108150-d6f35875-4bdd-4c7d-8596-f46a0b57413c.png)
+
+
+![Screenshot from 2022-03-08 01-25-25](https://user-images.githubusercontent.com/42698268/157108172-e9cd56bb-c77e-4457-9561-764a733711fc.png)
+
+### 2. Process assesments in SE 
+
+![Screenshot from 2022-03-08 01-28-52](https://user-images.githubusercontent.com/42698268/157108774-f424a956-53f0-4e0e-99c4-e54cf9b9b65c.png)
+
+### 3. Personal and team process mdoels
+
+
+
+![Screenshot from 2022-03-08 01-38-22](https://user-images.githubusercontent.com/42698268/157110287-10cf7f74-f434-488d-b346-a4d6ece3aa8c.png)
+
+
+![Screenshot from 2022-03-08 01-38-34](https://user-images.githubusercontent.com/42698268/157110297-2ab8e070-a7b8-4d0f-94a4-785a51546181.png)
+
+
+![Screenshot from 2022-03-08 01-38-46](https://user-images.githubusercontent.com/42698268/157110334-35236515-9e93-4e92-a890-fca1853d6999.png)
+
+
+![Screenshot from 2022-03-08 01-38-56](https://user-images.githubusercontent.com/42698268/157110355-70f5a701-6117-4849-9715-4db9b5fcf21d.png)
+
+![Screenshot from 2022-03-08 01-39-06](https://user-images.githubusercontent.com/42698268/157110359-a3ef834a-1ad3-4318-9dd0-796c84ce2153.png)
+
+
+### 4. Waterfall model
+
+
+![Screenshot from 2022-03-08 01-42-22](https://user-images.githubusercontent.com/42698268/157110664-6c20c200-645c-49e8-8516-1e2bbea08690.png)
+
+![Screenshot from 2022-03-08 01-42-35](https://user-images.githubusercontent.com/42698268/157110689-757d7696-b091-4923-ba2a-c38db5e4890c.png)
+
+![Screenshot from 2022-03-08 01-42-43](https://user-images.githubusercontent.com/42698268/157110698-f2a30067-a9a8-4ce7-a137-8a7e9bbb1eaa.png)
+
+
+![Screenshot from 2022-03-08 01-42-52](https://user-images.githubusercontent.com/42698268/157110703-70d77622-07c5-4478-b558-5f223615e2b9.png)
+
+
+### 5. Incremental Process model
+
+
+![Screenshot from 2022-03-08 01-44-29](https://user-images.githubusercontent.com/42698268/157110952-3e40e6c0-368b-4d88-ae83-d2d0f7547505.png)
+
+
+
+![Screenshot from 2022-03-08 01-44-38](https://user-images.githubusercontent.com/42698268/157110962-545c23fe-905d-441a-8c27-086c77f18178.png)
+
+![Screenshot from 2022-03-08 01-45-32](https://user-images.githubusercontent.com/42698268/157111118-29746913-0a27-46cc-95f3-ed0807e152e5.png)
+
+
+![Screenshot from 2022-03-08 01-45-40](https://user-images.githubusercontent.com/42698268/157111121-222d954e-51ca-44a1-9fdf-e9191a497d4f.png)
+
+![Screenshot from 2022-03-08 01-45-57](https://user-images.githubusercontent.com/42698268/157111128-4298133b-44cc-4e50-84fb-7e5b58f2c1c6.png)
+
+
+![Screenshot from 2022-03-08 01-46-07](https://user-images.githubusercontent.com/42698268/157111135-a42af1e6-f87b-4815-8b05-f648f1655145.png)
+
+### 6. Evolutionary process model
+
+![Screenshot from 2022-03-08 01-47-30](https://user-images.githubusercontent.com/42698268/157111429-8da74b69-9916-4c5b-b5e2-a2e9361d070b.png)
+
+![Screenshot from 2022-03-08 01-47-40](https://user-images.githubusercontent.com/42698268/157111438-27bdc886-5b46-4757-83e2-59c6ae69fd29.png)
+
+![Screenshot from 2022-03-08 01-47-51](https://user-images.githubusercontent.com/42698268/157111441-0572e09e-f3f7-4f0a-b866-8ed30a011c8f.png)
+
+
+### 7. Specialized process model
+
+![Screenshot from 2022-03-08 02-35-28](https://user-images.githubusercontent.com/42698268/157117739-cc25d797-6589-4b81-876c-8f6576239dcd.png)
+
+
+![Screenshot from 2022-03-08 02-35-37](https://user-images.githubusercontent.com/42698268/157117757-0a3c18aa-a2ca-4382-96ac-283cac8d657e.png)
+
+![Screenshot from 2022-03-08 02-37-29](https://user-images.githubusercontent.com/42698268/157117976-7d845395-761c-437a-be8c-30e44f37a675.png)
+
+
+
+### 8. The unified process
+
+![Screenshot from 2022-03-08 02-39-33](https://user-images.githubusercontent.com/42698268/157118416-bb879449-c5f4-4ea0-9431-615a3d9e756b.png)
+
+
+
+![Screenshot from 2022-03-08 02-39-46](https://user-images.githubusercontent.com/42698268/157118429-030a3be8-7c45-43ca-8136-40977aecb635.png)
+
+
+
+![Screenshot from 2022-03-08 02-40-25](https://user-images.githubusercontent.com/42698268/157118436-a4343a76-d3ea-4a82-9428-db8c896925c9.png)
+
+
+![Screenshot from 2022-03-08 02-40-34](https://user-images.githubusercontent.com/42698268/157118446-5e4edad0-4bdf-4f9d-9051-bedb88011616.png)
+
+
+![Screenshot from 2022-03-08 02-40-42](https://user-images.githubusercontent.com/42698268/157118452-20a91a11-dc10-420c-85ac-fdf00ecf197a.png)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
