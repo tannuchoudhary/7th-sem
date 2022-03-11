@@ -38,6 +38,28 @@
 
 ![Screenshot from 2022-03-11 03-03-10](https://user-images.githubusercontent.com/42698268/157758624-1e353ce5-5c77-434d-a21b-555e6538702d.png)
 
+![Screenshot from 2022-03-11 03-03-24](https://user-images.githubusercontent.com/42698268/157798340-b8e1c8bf-9af5-4e95-b459-b17d6dadefc0.png)
+
+
+![Screenshot from 2022-03-11 03-03-34](https://user-images.githubusercontent.com/42698268/157798347-bf0144de-5147-426d-a51a-9543f3a66dc1.png)
+
+
+# 7. Application of ML
+
+
+![Screenshot from 2022-03-11 09-26-57](https://user-images.githubusercontent.com/42698268/157799731-bfa1e84d-4386-4177-9842-9ee613dfec72.png)
+
+![Screenshot from 2022-03-11 09-27-09](https://user-images.githubusercontent.com/42698268/157799738-f7cce6f4-893e-48fd-ac7e-f635803cfc03.png)
+![Screenshot from 2022-03-11 09-27-19](https://user-images.githubusercontent.com/42698268/157799742-3f23516f-f705-4011-aebe-7275184379d8.png)
+
+
+![Screenshot from 2022-03-11 09-27-32](https://user-images.githubusercontent.com/42698268/157799752-4c297372-15d3-4d46-9a98-52873a52d0c1.png)
+
+![Screenshot from 2022-03-11 09-27-58](https://user-images.githubusercontent.com/42698268/157799760-bd52e58b-45b2-4d80-993b-777b7cab56ce.png)
+
+![Screenshot from 2022-03-11 09-28-08](https://user-images.githubusercontent.com/42698268/157799767-83111a91-b086-45c5-b01f-dd4780e24b37.png)
+
+
 
 
 
