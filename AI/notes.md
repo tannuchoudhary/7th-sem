@@ -45,6 +45,27 @@
 ![Screenshot from 2022-04-29 10-40-20](https://user-images.githubusercontent.com/42698268/165888276-ba55ac12-6679-4fd0-9277-e1d294ab7b99.png)
 
 
+![Screenshot from 2022-04-29 10-48-57](https://user-images.githubusercontent.com/42698268/165888841-7001e612-d4b8-4692-b62e-5c040d3850e4.png)
+
+# Lecture - 03 - What is State Space Search | Introduction to problem solving in AI
+* State space search means the number of states in which the problem can go, we know that when we are solving a problem we can't go directly to goal state from start state, there would be intermediatory states through which you have to go to reach the goal state
+* All these set of states are used as representation
+* In AI we talk about how to represent the state precisely
+* If we have represented it precisely than we can analyze it properly
+* So to represent the problem precisely and to represent the problem in all set of states, then we use the state space searching
+* **S** - Here S is total number of states, S contains {Start state, Intermediatory states, Goal state)
+* **A** - A is set of actions, i.e all possible actions
+
+
+![Screenshot from 2022-04-29 11-19-53](https://user-images.githubusercontent.com/42698268/165892105-00c321f6-e3fb-4ec0-b0a1-1dfc60fa59e3.png)
+
+
+* Let us take an example where we are given a 3x3 matrix which is the start state and another 3x3 matrix which is a goal state, we have to reach the goal state by choosing actions, All possible actions means, here in this example we can move our empty space towards up, down, left or right, therefore you should know about the legal and illegal moves, you can't take actions for illegal moves
+* Now the last is **cost**, which can be distance, time or money or anything based on problem 
+* So the benefits of state space search is, we are defining everything precisely, the agent is analyzing properly that how we can reach each of the state
+* Here in the process when the searching will take place, there would be two types of searching, uninformed and informed search
+    * Uninformed search - Just like the name, the searching will be uninformed i.e it will go to all possible states, and it will be exponential search taking time = O(b^d), which is obvioulsy a lot, here b = breadth and d = depth, in the above example of 3x3 matrix the problem can grow upto (3^20) states, i.e more than 3.5 billion states
+    * 
 
 
 
