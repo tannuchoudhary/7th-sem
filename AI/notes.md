@@ -25,6 +25,22 @@
 
 ![Screenshot from 2022-04-29 10-15-22](https://user-images.githubusercontent.com/42698268/165886510-63edb712-9960-4830-b3db-4317253271d2.png)
 
+# AI techniques
+
+![Screenshot from 2022-04-29 10-19-40](https://user-images.githubusercontent.com/42698268/165886836-ae0eadf5-fcdc-4f94-830a-33e71fa41e18.png)
+
+![Screenshot from 2022-04-29 10-19-54](https://user-images.githubusercontent.com/42698268/165886840-f8c9ddfd-17c6-41d3-a621-7285de35664e.png)
+
+![Screenshot from 2022-04-29 10-20-04](https://user-images.githubusercontent.com/42698268/165886886-44e00a10-867e-483f-8848-c1932458882d.png)
+
+![Screenshot from 2022-04-29 10-20-16](https://user-images.githubusercontent.com/42698268/165886893-c60accc9-1f1f-485c-906d-604f74603a9b.png)
+
+
+
+
+
+
+
 
 
 
