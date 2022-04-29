@@ -66,6 +66,46 @@
 * Here in the process when the searching will take place, there would be two types of searching, uninformed and informed search
     * Uninformed search - Just like the name, the searching will be uninformed i.e it will go to all possible states, and it will be exponential search taking time = O(b^d), which is obvioulsy a lot, here b = breadth and d = depth, in the above example of 3x3 matrix the problem can grow upto (3^20) states, i.e more than 3.5 billion states
     * 
+# Lectur - 04 - Uninformed vs informed search
+# 7. Problem characteristics
+
+
+![Screenshot from 2022-04-29 11-41-27](https://user-images.githubusercontent.com/42698268/165893315-8c6bf282-d6ca-4720-a17f-d3570881c712.png)
+
+
+![Screenshot from 2022-04-29 11-41-46](https://user-images.githubusercontent.com/42698268/165893342-3ff6f18b-7d94-4507-8899-9e515354035b.png)
+
+
+
+![Screenshot from 2022-04-29 11-41-56](https://user-images.githubusercontent.com/42698268/165893351-c9f38558-073a-42e3-b50b-b00a187bc300.png)
+
+
+![Screenshot from 2022-04-29 11-42-04](https://user-images.githubusercontent.com/42698268/165893361-fe2edb15-9453-49b9-8238-34d48c8b370d.png)
+
+
+
+![Screenshot from 2022-04-29 11-42-17](https://user-images.githubusercontent.com/42698268/165893368-f3ff8b35-8d9a-4281-a788-41c06268807e.png)
+
+
+![Screenshot from 2022-04-29 11-42-48](https://user-images.githubusercontent.com/42698268/165893373-58cc3fe3-c1f7-4cc8-b281-8c4f801ce815.png)
+
+
+![Screenshot from 2022-04-29 11-43-08](https://user-images.githubusercontent.com/42698268/165893385-a7557045-c512-46f2-83e0-d41ec53a1fb3.png)
+
+
+![Screenshot from 2022-04-29 11-43-18](https://user-images.githubusercontent.com/42698268/165893396-a50faf73-48da-47a0-af9d-8205476f499f.png)
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
