@@ -1,3 +1,6 @@
+![Screenshot from 2022-04-29 15-37-53](https://user-images.githubusercontent.com/42698268/165925325-2f6af38f-0963-462e-b674-60e75a0cc832.png)
+
+
 # Lecture - 01 - What is AI | Learn AI with real life e.g | can machine think
 ![Screenshot from 2022-04-29 09-31-53](https://user-images.githubusercontent.com/42698268/165884509-909ef288-03cf-459e-ad02-864c6f90b2ba.png)
 
@@ -118,23 +121,140 @@
 ![Screenshot from 2022-04-29 11-49-03](https://user-images.githubusercontent.com/42698268/165894006-ffc7f55a-0280-48e4-8c16-af21d907934d.png)
 
 
+
+![Screenshot from 2022-04-29 15-38-01](https://user-images.githubusercontent.com/42698268/165925404-ddc52ba2-f165-4f33-9b20-6054c4716312.png)
+
+
 # Lectur - 04 - Uninformed vs informed search
 
 
 
 ![Screenshot from 2022-04-29 12-43-41](https://user-images.githubusercontent.com/42698268/165900681-9948d437-09ad-4b3b-a243-3fb6fa36b33f.png)
 
+* Uninformed searching is also called brute force method or blind searching
+* In uninformed search, we do a brute force operation and try to operate on all possible solutions
+* Taking the example of travelling salesman problem, we do (n-1)! searches
+* Uninformed search gurantees that it will give you optimal solution, but in informed search it is not gurantee that you will get an optimal solution
+* In informed searching we use Heuristic(anumaan) method, we use heuristic method in those cases only where their is exponential growth in time, which is also called NP or non polynomial problem, so to solve the problem in polynomial time, we use heuristic method
+
+
+
+![Screenshot from 2022-04-29 15-36-16](https://user-images.githubusercontent.com/42698268/165925108-6bcf99e2-aa95-48b4-bf18-e02ad18dc0a0.png)
+
+
+![Screenshot from 2022-04-29 15-36-25](https://user-images.githubusercontent.com/42698268/165925109-e10d4add-acb7-45d6-a453-501ae322fd62.png)
+
+# 1. Depth First search, Breadth First search and other searching algorithms
+
+
+
+![Screenshot from 2022-04-29 15-41-28](https://user-images.githubusercontent.com/42698268/165926460-cea43861-6625-4143-b700-5f87527bbf27.png)
+
+
+![Screenshot from 2022-04-29 15-41-37](https://user-images.githubusercontent.com/42698268/165926462-3e745370-b552-4372-9c98-e24f3cef0611.png)
+
+![Screenshot from 2022-04-29 15-41-57](https://user-images.githubusercontent.com/42698268/165926466-27006fa8-a4b0-41d6-9bf3-b52734192794.png)
+
+
+
+![Screenshot from 2022-04-29 15-42-16](https://user-images.githubusercontent.com/42698268/165926461-143da6db-1641-4c17-b4b1-365ab39feb68.png)
+
+![Screenshot from 2022-04-29 15-42-35](https://user-images.githubusercontent.com/42698268/165926471-9eb0b028-3574-4279-a019-28117bb32d6a.png)
+
+
+
+![Screenshot from 2022-04-29 15-42-54](https://user-images.githubusercontent.com/42698268/165926489-affdc14b-8b4d-4733-876f-e4e9f0a5dd46.png)
+
+
+
+![Screenshot from 2022-04-29 15-43-10](https://user-images.githubusercontent.com/42698268/165926497-d895b746-2f70-4523-a23a-2eec62f9ab46.png)
+
+
+![Screenshot from 2022-04-29 15-43-19](https://user-images.githubusercontent.com/42698268/165926504-25173a40-90cf-4ac4-8d6e-5b0e4404bdc3.png)
+
+
+
+![Screenshot from 2022-04-29 15-43-35](https://user-images.githubusercontent.com/42698268/165926509-909cc4a8-49b4-4fce-a6c7-f5315e5c8f94.png)
+
+![Screenshot from 2022-04-29 15-43-45](https://user-images.githubusercontent.com/42698268/165926519-cbc29aa7-f8ca-48d3-a4cf-5f613fe124e0.png)
+
+
+![Screenshot from 2022-04-29 15-43-53](https://user-images.githubusercontent.com/42698268/165926532-0cc62fa6-1f36-4a7d-9067-6cdef664a7a4.png)
+
+![Screenshot from 2022-04-29 15-44-06](https://user-images.githubusercontent.com/42698268/165926538-171188a8-d4fd-477e-bcd7-dfe2f2351577.png)
 
 
 
 
 
+![Screenshot from 2022-04-29 15-44-24](https://user-images.githubusercontent.com/42698268/165926545-02993b32-8900-49c1-a72a-a12bfe2b5650.png)
+
+
+
+![Screenshot from 2022-04-29 15-44-35](https://user-images.githubusercontent.com/42698268/165926558-675b5b44-069f-4fbd-9076-aa5f14924b1a.png)
+
+
+![Screenshot from 2022-04-29 15-44-43](https://user-images.githubusercontent.com/42698268/165926561-f738c0c5-f481-4f37-999d-e82a6465739e.png)
 
 
 
 
 
+![Screenshot from 2022-04-29 15-44-58](https://user-images.githubusercontent.com/42698268/165926565-d5cffaca-eb8e-4849-a4a9-6230633b8b1b.png)
 
+
+# 2. Depth limited search and Bidirectional search
+
+![Screenshot from 2022-04-29 15-51-08](https://user-images.githubusercontent.com/42698268/165927702-f537fd1e-3e73-4088-91c1-8f5b44443b16.png)
+
+![Screenshot from 2022-04-29 15-51-17](https://user-images.githubusercontent.com/42698268/165927707-f1baf39a-24df-486a-ac19-4a81d0026940.png)
+
+
+![Screenshot from 2022-04-29 15-51-37](https://user-images.githubusercontent.com/42698268/165927716-694102cd-2e26-40e1-86c9-5551bd70532f.png)
+
+
+
+![Screenshot from 2022-04-29 15-51-50](https://user-images.githubusercontent.com/42698268/165927723-0bf60359-6228-4e4b-8711-61f0001b72f3.png)
+
+
+
+![Screenshot from 2022-04-29 15-52-01](https://user-images.githubusercontent.com/42698268/165927730-640ac406-2334-4cd5-9c22-287a795bf7b1.png)
+
+
+![Screenshot from 2022-04-29 15-52-15](https://user-images.githubusercontent.com/42698268/165927738-ade8f0c6-67dd-490c-a055-cfe74882a5bb.png)
+
+
+![Screenshot from 2022-04-29 15-52-25](https://user-images.githubusercontent.com/42698268/165927745-26cdfc2d-66d6-4445-ac6b-36fe8d024525.png)
+
+![Screenshot from 2022-04-29 15-52-52](https://user-images.githubusercontent.com/42698268/165927764-eb422966-e1dc-40af-87ae-45e7413aed4d.png)
+
+
+
+![Screenshot from 2022-04-29 15-53-02](https://user-images.githubusercontent.com/42698268/165927773-932ac7d5-ac3e-496c-b860-6adcf4355c5e.png)
+
+
+![Screenshot from 2022-04-29 15-53-15](https://user-images.githubusercontent.com/42698268/165927791-aa7ab92f-3973-498e-b958-1caa7ac9d9a6.png)
+
+
+![Screenshot from 2022-04-29 15-53-29](https://user-images.githubusercontent.com/42698268/165927812-104b250e-bb81-40c5-8b7d-b3d036951cb8.png)
+
+
+
+![Screenshot from 2022-04-29 15-53-55](https://user-images.githubusercontent.com/42698268/165927819-a3903e14-d6a8-423d-a9c8-ee673e8175fa.png)
+
+
+
+![Screenshot from 2022-04-29 15-54-10](https://user-images.githubusercontent.com/42698268/165927833-1eade5a6-c0cb-408d-9a78-cffed4c28aff.png)
+
+
+
+![Screenshot from 2022-04-29 15-54-19](https://user-images.githubusercontent.com/42698268/165927840-efbab388-b370-4eec-b2ab-3650229cf2db.png)
+
+![Screenshot from 2022-04-29 15-54-28](https://user-images.githubusercontent.com/42698268/165927849-26ab01c5-aef7-4a97-9aca-beb9ffb07556.png)
+
+# 3. Best First search
+
+![Screenshot from 2022-04-29 16-07-36](https://user-images.githubusercontent.com/42698268/165929405-8c87a35c-6a8a-40c2-b261-7114af38bf77.png)
 
 
 
