@@ -14,3 +14,23 @@
 ![Screenshot from 2022-04-29 10-07-43](https://user-images.githubusercontent.com/42698268/165885926-b043b30b-bfcc-416f-b968-efab3d9544a2.png)
 ![Screenshot from 2022-04-29 10-08-12](https://user-images.githubusercontent.com/42698268/165885929-b2752a88-211a-4f8f-bb8f-380ca7e60538.png)
 ![Screenshot from 2022-04-29 10-08-23](https://user-images.githubusercontent.com/42698268/165885933-055fbc3d-ddd9-474e-91cb-7496f0ea955c.png)
+
+# 2. Problems of AI
+![Screenshot from 2022-04-29 10-13-10](https://user-images.githubusercontent.com/42698268/165886462-18d243c7-1596-425d-b25a-d462866b48dd.png)
+
+![Screenshot from 2022-04-29 10-14-45](https://user-images.githubusercontent.com/42698268/165886467-f1057bb6-5947-404b-895b-4dbbd83ce896.png)
+
+
+![Screenshot from 2022-04-29 10-15-06](https://user-images.githubusercontent.com/42698268/165886497-d35dff92-2afd-421e-bf4f-c7559c0f8c37.png)
+
+![Screenshot from 2022-04-29 10-15-22](https://user-images.githubusercontent.com/42698268/165886510-63edb712-9960-4830-b3db-4317253271d2.png)
+
+
+
+
+
+
+
+
+
+
