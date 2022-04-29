@@ -95,6 +95,42 @@
 
 ![Screenshot from 2022-04-29 11-43-18](https://user-images.githubusercontent.com/42698268/165893396-a50faf73-48da-47a0-af9d-8205476f499f.png)
 
+# 8. Tic - Tac - Toe Game
+
+
+![Screenshot from 2022-04-29 11-47-49](https://user-images.githubusercontent.com/42698268/165893948-fb74f90e-da9e-4902-a413-2be870cf2af6.png)
+
+
+![Screenshot from 2022-04-29 11-48-10](https://user-images.githubusercontent.com/42698268/165893956-c87429d6-c266-43be-b4ca-d6743ef38bce.png)
+
+
+![Screenshot from 2022-04-29 11-48-22](https://user-images.githubusercontent.com/42698268/165893967-e05d899d-447f-4fe6-9cc3-36acf2e18b8d.png)
+
+
+![Screenshot from 2022-04-29 11-48-38](https://user-images.githubusercontent.com/42698268/165893992-36a93c65-1465-4ff3-99ea-cbfef8146430.png)
+
+
+
+![Screenshot from 2022-04-29 11-48-53](https://user-images.githubusercontent.com/42698268/165894000-3d1be100-4aad-4920-a399-0d3de75156ec.png)
+
+
+
+![Screenshot from 2022-04-29 11-49-03](https://user-images.githubusercontent.com/42698268/165894006-ffc7f55a-0280-48e4-8c16-af21d907934d.png)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
