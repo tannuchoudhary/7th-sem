@@ -25,7 +25,7 @@
 
 ![Screenshot from 2022-04-29 10-15-22](https://user-images.githubusercontent.com/42698268/165886510-63edb712-9960-4830-b3db-4317253271d2.png)
 
-# AI techniques
+# 3. AI techniques
 
 ![Screenshot from 2022-04-29 10-19-40](https://user-images.githubusercontent.com/42698268/165886836-ae0eadf5-fcdc-4f94-830a-33e71fa41e18.png)
 
@@ -35,11 +35,14 @@
 
 ![Screenshot from 2022-04-29 10-20-16](https://user-images.githubusercontent.com/42698268/165886893-c60accc9-1f1f-485c-906d-604f74603a9b.png)
 
+# 4. Defining the problem as state space search
 
 
+![Screenshot from 2022-04-29 10-40-02](https://user-images.githubusercontent.com/42698268/165888264-1d0c457b-0951-4bc9-aebf-7027d693eaa7.png)
 
+![Screenshot from 2022-04-29 10-40-11](https://user-images.githubusercontent.com/42698268/165888272-a9b95f3a-315c-49e8-a0b9-0458acefd705.png)
 
-
+![Screenshot from 2022-04-29 10-40-20](https://user-images.githubusercontent.com/42698268/165888276-ba55ac12-6679-4fd0-9277-e1d294ab7b99.png)
 
 
 
