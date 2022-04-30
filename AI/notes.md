@@ -120,10 +120,27 @@
 
 ![Screenshot from 2022-04-29 11-49-03](https://user-images.githubusercontent.com/42698268/165894006-ffc7f55a-0280-48e4-8c16-af21d907934d.png)
 
-
+# MODULE 2
 
 ![Screenshot from 2022-04-29 15-38-01](https://user-images.githubusercontent.com/42698268/165925404-ddc52ba2-f165-4f33-9b20-6054c4716312.png)
 
+# 1. Solving Problems by searching
+
+Whenever the agent is confronted by a problem, its first action is seeking a solution is its knowledge system. This is known as the search for the solution in the knowledge base. Another attempt can be to search for a solution by going into different states. The search of the agent stops in the state when the agent reaches the goal state.
+
+There are many approaches for searching a particular goal state from all the states that the agent can be in.
+
+There are many search algorithms which are followed by an agent for solving the problems by searching. Some of them are:
+
+* Random search
+* Breadth-first search
+* Depth-first search
+* Best-First search(Heuristic search)
+* A* search
+
+
+* **Random search**:
+In this search technique, an agent just keeps checking any random state for being it the goal state. This is not an effective way to search the solution because, in this search, each node can be searched again and again, there is no fixed path followed, problems like infinite searching can be faced.
 
 # Lectur - 04 - Uninformed vs informed search
 
@@ -257,9 +274,14 @@
 ![Screenshot from 2022-04-29 16-07-36](https://user-images.githubusercontent.com/42698268/165929405-8c87a35c-6a8a-40c2-b261-7114af38bf77.png)
 
 
+![Screenshot from 2022-04-30 11-44-30](https://user-images.githubusercontent.com/42698268/166094220-3917920c-1f6c-4eb7-ad33-5a048c5e578d.png)
+
+![Screenshot from 2022-04-30 11-44-46](https://user-images.githubusercontent.com/42698268/166094222-c4f507fb-1802-45cd-b98d-7b2fc18f41f2.png)
 
 
+![Screenshot from 2022-04-30 11-45-17](https://user-images.githubusercontent.com/42698268/166094227-90c0749a-c2fe-4e02-b015-9310d472eac9.png)
 
+![Screenshot from 2022-04-30 11-45-34](https://user-images.githubusercontent.com/42698268/166094232-1bea5f48-3470-448b-8e71-c7e2358bf66f.png)
 
 
 
