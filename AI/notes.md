@@ -163,7 +163,15 @@ In this search technique, an agent just keeps checking any random state for bein
 
 # 1. Depth First search, Breadth First search and other searching algorithms
 
+```
+Some important points
+* DFS is incomplete as it is possbile that it will get stuck in loop and will not give an answer while BFS is complete algorithm, so it will always give answer and that would be optimal
 
+* BFS will always give optimal solution, while this is not true in the case of dfs, it is possible that the solution given by dfs is more costly then the optimal one
+
+*
+
+```
 
 ![Screenshot from 2022-04-29 15-41-28](https://user-images.githubusercontent.com/42698268/165926460-cea43861-6625-4143-b700-5f87527bbf27.png)
 
@@ -172,12 +180,15 @@ In this search technique, an agent just keeps checking any random state for bein
 
 ![Screenshot from 2022-04-29 15-41-57](https://user-images.githubusercontent.com/42698268/165926466-27006fa8-a4b0-41d6-9bf3-b52734192794.png)
 
+![Screenshot from 2022-04-30 12-20-50](https://user-images.githubusercontent.com/42698268/166095329-40053499-9488-40ef-83fa-449ad73c1b82.png)
+
 
 
 ![Screenshot from 2022-04-29 15-42-16](https://user-images.githubusercontent.com/42698268/165926461-143da6db-1641-4c17-b4b1-365ab39feb68.png)
 
 ![Screenshot from 2022-04-29 15-42-35](https://user-images.githubusercontent.com/42698268/165926471-9eb0b028-3574-4279-a019-28117bb32d6a.png)
 
+![Screenshot from 2022-04-30 12-30-00](https://user-images.githubusercontent.com/42698268/166095574-aefe44a7-8e24-4f14-b977-94d90750c9a9.png)
 
 
 ![Screenshot from 2022-04-29 15-42-54](https://user-images.githubusercontent.com/42698268/165926489-affdc14b-8b4d-4733-876f-e4e9f0a5dd46.png)
