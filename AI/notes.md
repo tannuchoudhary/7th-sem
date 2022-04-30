@@ -161,7 +161,7 @@ In this search technique, an agent just keeps checking any random state for bein
 
 ![Screenshot from 2022-04-29 15-36-25](https://user-images.githubusercontent.com/42698268/165925109-e10d4add-acb7-45d6-a453-501ae322fd62.png)
 
-# 1. Depth First search, Breadth First search and other searching algorithms
+# 2. Depth First search, Breadth First search and other searching algorithms
 
 ```
 Some important points
@@ -228,7 +228,7 @@ Some important points
 ![Screenshot from 2022-04-29 15-44-58](https://user-images.githubusercontent.com/42698268/165926565-d5cffaca-eb8e-4849-a4a9-6230633b8b1b.png)
 
 
-# 2. Depth limited search and Bidirectional search
+# 3. Depth limited search and Bidirectional search
 
 ![Screenshot from 2022-04-29 15-51-08](https://user-images.githubusercontent.com/42698268/165927702-f537fd1e-3e73-4088-91c1-8f5b44443b16.png)
 
@@ -278,7 +278,7 @@ Some important points
 
 ![Screenshot from 2022-04-29 15-54-28](https://user-images.githubusercontent.com/42698268/165927849-26ab01c5-aef7-4a97-9aca-beb9ffb07556.png)
 
-# 3. Best First search
+# 4. Best First search
 
 ![Screenshot from 2022-04-29 16-07-36](https://user-images.githubusercontent.com/42698268/165929405-8c87a35c-6a8a-40c2-b261-7114af38bf77.png)
 
@@ -291,6 +291,51 @@ Some important points
 ![Screenshot from 2022-04-30 11-45-17](https://user-images.githubusercontent.com/42698268/166094227-90c0749a-c2fe-4e02-b015-9310d472eac9.png)
 
 ![Screenshot from 2022-04-30 11-45-34](https://user-images.githubusercontent.com/42698268/166094232-1bea5f48-3470-448b-8e71-c7e2358bf66f.png)
+
+# 5.Heuristic Search
+
+![Screenshot from 2022-04-30 13-49-43](https://user-images.githubusercontent.com/42698268/166098353-3111a535-3063-40f1-b0c5-319a7854a19a.png)
+
+
+![Screenshot from 2022-04-30 14-00-12](https://user-images.githubusercontent.com/42698268/166098366-93c269dd-8534-4931-a4e4-9ad0ec88c706.png)
+
+
+![Screenshot from 2022-04-30 14-00-29](https://user-images.githubusercontent.com/42698268/166098367-a358da88-ac14-420f-aa69-8da8324d018d.png)
+
+
+![Screenshot from 2022-04-30 14-00-45](https://user-images.githubusercontent.com/42698268/166098373-0549ea14-3998-4854-97b7-bb246e5187b0.png)
+
+![Screenshot from 2022-04-30 14-01-04](https://user-images.githubusercontent.com/42698268/166098377-e623739f-20f8-4c99-89f8-4c38d5520db7.png)
+
+
+![Screenshot from 2022-04-30 14-01-43](https://user-images.githubusercontent.com/42698268/166098382-b793b07b-da1a-4788-9215-9b7c558df83c.png)
+
+
+![Screenshot from 2022-04-30 14-01-52](https://user-images.githubusercontent.com/42698268/166098384-de9f809f-1d20-4da0-97c4-80633e270392.png)
+
+
+![Screenshot from 2022-04-30 14-02-02](https://user-images.githubusercontent.com/42698268/166098386-f0dbce03-9a31-4c6f-b635-a1f45d4db4b3.png)
+
+
+![Screenshot from 2022-04-30 14-02-21](https://user-images.githubusercontent.com/42698268/166098389-e0c0b737-f55a-49d6-9284-067280cc903c.png)
+
+
+![Screenshot from 2022-04-30 14-02-42](https://user-images.githubusercontent.com/42698268/166098393-0cff59d2-aa7a-4699-89a8-b736e8821236.png)
+
+
+
+![Screenshot from 2022-04-30 14-03-05](https://user-images.githubusercontent.com/42698268/166098397-b55530d1-de53-41c8-acde-db6eeb7c5716.png)
+
+
+![Screenshot from 2022-04-30 14-03-18](https://user-images.githubusercontent.com/42698268/166098402-af301e22-a45a-46ca-8509-0c13c84821a0.png)
+
+![Screenshot from 2022-04-30 14-03-34](https://user-images.githubusercontent.com/42698268/166098403-97438ecf-d1ee-45f8-a549-dfaa938b1c36.png)
+
+
+
+
+
+
 
 
 
