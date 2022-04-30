@@ -331,6 +331,64 @@ Some important points
 
 ![Screenshot from 2022-04-30 14-03-34](https://user-images.githubusercontent.com/42698268/166098403-97438ecf-d1ee-45f8-a549-dfaa938b1c36.png)
 
+# 6. Greedy Best First Search or Best First Search
+
+
+
+
+![Screenshot from 2022-04-30 14-06-45](https://user-images.githubusercontent.com/42698268/166098487-a4488dd8-2ab9-4fbe-92b0-c8597a232cd3.png)
+
+
+![Screenshot from 2022-04-30 14-06-59](https://user-images.githubusercontent.com/42698268/166098489-6ddc6469-382c-4ce0-9950-98d345bb4d7e.png)
+
+
+
+![Uploading Screenshot from 2022-04-30 14-07-07.png…]()
+
+![Screenshot from 2022-04-30 14-07-17](https://user-images.githubusercontent.com/42698268/166098504-af0c4390-10c6-4c88-9c9e-111d47cf1b6f.png)
+
+
+
+![Screenshot from 2022-04-30 14-07-27](https://user-images.githubusercontent.com/42698268/166098506-962a320a-965e-4445-ab63-607e545e133b.png)
+
+
+# 7. A* Search
+
+
+![Screenshot from 2022-04-30 14-10-14](https://user-images.githubusercontent.com/42698268/166098581-5cf216a8-5d72-4cec-8bf3-a8347b2289ff.png)
+
+
+![Screenshot from 2022-04-30 14-10-23](https://user-images.githubusercontent.com/42698268/166098582-56d62d7d-fa22-4bcd-9565-3a8ea5cce10b.png)
+
+![Screenshot from 2022-04-30 14-10-38](https://user-images.githubusercontent.com/42698268/166098584-17f2ac66-6e74-4e1e-ad8e-866200e70300.png)
+
+![Screenshot from 2022-04-30 14-10-48](https://user-images.githubusercontent.com/42698268/166098587-5b7d583c-6340-4188-9905-3e9808f8244b.png)
+
+
+![Screenshot from 2022-04-30 14-11-04](https://user-images.githubusercontent.com/42698268/166098589-0f3bd12d-b7f1-428b-bbd4-2930eaf0818a.png)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
