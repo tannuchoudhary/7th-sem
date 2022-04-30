@@ -180,16 +180,13 @@ Some important points
 
 ![Screenshot from 2022-04-29 15-41-57](https://user-images.githubusercontent.com/42698268/165926466-27006fa8-a4b0-41d6-9bf3-b52734192794.png)
 
-![Screenshot from 2022-04-30 12-20-50](https://user-images.githubusercontent.com/42698268/166095329-40053499-9488-40ef-83fa-449ad73c1b82.png)
-
-
+![Screenshot from 2022-04-30 12-30-00](https://user-images.githubusercontent.com/42698268/166095574-aefe44a7-8e24-4f14-b977-94d90750c9a9.png)
 
 ![Screenshot from 2022-04-29 15-42-16](https://user-images.githubusercontent.com/42698268/165926461-143da6db-1641-4c17-b4b1-365ab39feb68.png)
 
 ![Screenshot from 2022-04-29 15-42-35](https://user-images.githubusercontent.com/42698268/165926471-9eb0b028-3574-4279-a019-28117bb32d6a.png)
 
-![Screenshot from 2022-04-30 12-30-00](https://user-images.githubusercontent.com/42698268/166095574-aefe44a7-8e24-4f14-b977-94d90750c9a9.png)
-
+![Screenshot from 2022-04-30 12-03-25](https://user-images.githubusercontent.com/42698268/166097297-e03b5cac-c5ac-4283-a999-f83a6ef99350.png)
 
 ![Screenshot from 2022-04-29 15-42-54](https://user-images.githubusercontent.com/42698268/165926489-affdc14b-8b4d-4733-876f-e4e9f0a5dd46.png)
 
@@ -274,6 +271,7 @@ Some important points
 
 ![Screenshot from 2022-04-29 15-54-10](https://user-images.githubusercontent.com/42698268/165927833-1eade5a6-c0cb-408d-9a78-cffed4c28aff.png)
 
+![Screenshot from 2022-04-30 13-21-16](https://user-images.githubusercontent.com/42698268/166097399-32913fd3-e620-44c0-91b3-bc16df34368f.png)
 
 
 ![Screenshot from 2022-04-29 15-54-19](https://user-images.githubusercontent.com/42698268/165927840-efbab388-b370-4eec-b2ab-3650229cf2db.png)
