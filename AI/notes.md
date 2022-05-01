@@ -341,9 +341,9 @@ Some important points
 
 ![Screenshot from 2022-04-30 14-06-59](https://user-images.githubusercontent.com/42698268/166098489-6ddc6469-382c-4ce0-9950-98d345bb4d7e.png)
 
+![Screenshot from 2022-04-30 14-07-07](https://user-images.githubusercontent.com/42698268/166142552-3421f748-5f03-43fd-9268-2f360bf68681.png)
 
 
-![Uploading Screenshot from 2022-04-30 14-07-07.png…]()
 
 ![Screenshot from 2022-04-30 14-07-17](https://user-images.githubusercontent.com/42698268/166098504-af0c4390-10c6-4c88-9c9e-111d47cf1b6f.png)
 
